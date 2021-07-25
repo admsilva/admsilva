@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Universidade de Santo Amaro.
-- 🌱 I’m currently learning PL/SQL, PHP, LARAVEL, JAVASCRIPT, NODE, VUE, REACT, CSS, HTML.
+- 🔭 I’m currently working at PicPay :green_heart:.
+- 🌱 I’m currently learning PHP, LARAVEL, ORACLE PL/SQL, JAVASCRIPT, NODE, VUE, REACT, CSS, HTML.
 - 📫 How to reach me: menezes.adolfo@gmail.com
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle pl/sql" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel"  width="20" height="20"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle pl/sql" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="20" height="20"/>
