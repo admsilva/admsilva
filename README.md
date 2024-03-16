@@ -1,25 +1,3 @@
-<style>
-    .responsive {
-        width: 100% !important;
-        text-align: center;
-    }
-    
-    .table {
-        border: none;
-        width: 50% !important;
-        margin: auto;
-    }
-    
-    .table-status {
-        margin-top: 2em;
-        margin-bottom: 2em !important;
-    }
-
-    .table-td {
-        text-align: left;
-    }
-</style>
-
 ### Hi there 👋
 
 - 🔭 I’m currently working at PicPay :green_heart:.
