@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- Cabeçalho animado -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Olá%2C+sou+Adolfo+Menezes+%F0%9F%91%8B;Engenheiro+de+Software" alt="Typing SVG" />
-
-<br/>
-
 <!-- Badges sociais -->
 <a href="mailto:menezes.adolfo@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-menezes.adolfo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
